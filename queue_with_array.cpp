@@ -209,7 +209,7 @@ Enter Proper Option number
 
 
 What operation do you want to perform? Select Option number. Enter 0 to exit.
- 1. Enqueue()
+1. Enqueue()
 2. Dequeue()
 3. isEmpty()
 4. isFull()
